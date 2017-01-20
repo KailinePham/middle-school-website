@@ -1,0 +1,45 @@
+
+body {
+	background: rgb(199,199,199);
+}
+
+.title {
+	font-family: "Bradley Hand", Courier, monospace;
+	font-size: 50px;
+	padding: 50px 0px 0px 50px;
+}
+
+article {
+	max-width: 650px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+header {
+	background: url("images/watercolour.jpg");
+	background-size: cover;
+}
+
+.liner {
+	padding: 10px;
+	background: rgba(0,0,0,0.5);
+    }
+
+.l2 {
+    display: inline;
+    padding: 0px 10px 0px 30px;
+    font-family: "NoteWorthy", Courier, monospace; 
+    font-size: 17px; 
+}
+
+a {
+	color: rgb(200,255,240);
+}
