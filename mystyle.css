@@ -38,7 +38,12 @@ header {
 	background: rgba(0,0,0,0.5);
     }
 
-
+.l2 {
+    display: inline;
+    padding: 0px 10px 0px 30px;
+    font-family: "NoteWorthy", Courier, monospace; 
+    font-size: 17px; 
+}
 
 a {
 	color: rgb(200,255,240);
