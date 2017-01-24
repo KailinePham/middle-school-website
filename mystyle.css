@@ -26,6 +26,7 @@ article {
 img {
 	margin: 0px 0px 0px 0px;
 	border: 7px solid rgb(199,199,199);
+	border-radius: 20px;
 }
 
 header {
