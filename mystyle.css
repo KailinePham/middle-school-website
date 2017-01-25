@@ -49,4 +49,6 @@ header {
 a {
 	color: rgb(200,255,240);
 }
-
+ul {
+	margin: 0px;
+}
