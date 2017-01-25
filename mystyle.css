@@ -1,6 +1,7 @@
 
 body {
 	background: rgb(199,199,199);
+	padding-top: -5px;
 }
 .title {
 	font-family: "Bradley Hand", Courier, monospace;
