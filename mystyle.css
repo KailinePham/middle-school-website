@@ -32,6 +32,8 @@ header {
 	background: url("images/watercolour.jpg");
 	background-size: cover;
 	margin: 0 auto;
+	position: absolute;
+	top: 0;
 }
 
 .liner {
