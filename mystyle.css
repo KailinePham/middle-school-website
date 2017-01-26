@@ -58,3 +58,6 @@ h1,h3 {
 h1,h2,h3 {
 	font-family: "NoteWorthy", "Bradley Hand", monospace;
 }
+p {
+	font-size: 15px;
+}
